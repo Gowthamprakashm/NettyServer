@@ -1,6 +1,6 @@
 # NettyServer
 
-STEPS TO FOLLOW :
+STEPS FOLLOWED :
 
 1)Setup Netty Server
 2)Accept json from client
